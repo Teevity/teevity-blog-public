@@ -21,12 +21,15 @@ It’s normal that your cloud spends are going to increase over time but it shou
 
 In the [Teevity Dynamic Cost Explorer](https://docs.teevity.com/configuration/saas-teevity-cloud-cost-analytics/reports-for-your-cloud-costs-analytics) you can build a report of your cloud egress traffic. The purpose of this report is to put some business context around your cloud spend. 
 
-![a report based on the egress activity](/assets/images/2023-05-30-a-new-business-metrics-provider-a-new-business-metrics-provider/business-metrics-clod-usage-provider-report-sample.png)
+![a report showing the egress activity](/assets/images/2023-05-30-a-new-business-metrics-provider-a-new-business-metrics-provider/business-metrics-clod-usage-provider-report-sample.png)
+*Egress traffic as a proxy of business acitvity*
 
 After configuring this report as the source of business data as [described](https://docs.teevity.com/configuration/saas-teevity-cloud-cost-analytics/configuration-of-business-metrics-definitions#h.vnidhdyh5nm3) in our documentation, you can use it in your cloud cost [exploration](https://docs.teevity.com/configuration/saas-teevity-cloud-cost-analytics/configuration-of-business-metrics-definitions#h.ul9o38xs12yq) . 
 
 The chart at the top is the egress traffic and below the cloud spend by product. For each product we can see the spend per unit (here we use a factor of 1024 to get the cost by GB of network traffic). In this particular example, we can observe a healthy trend because, even if the absolute cost of cloud spend is increasing, the relative cost by business unit is decreasing. 
 
 ![cloud spend in absolute terms](/assets/images/2023-05-30-a-new-business-metrics-provider-a-new-business-metrics-provider/business-metrics-cloud-usage-compare-absolute-sample.png)
+*Cloud spending without business context i.e. in absolute terms*
 
 ![cloud spend relative to usage data as a proxy of business activity  ](/assets/images/2023-05-30-a-new-business-metrics-provider-a-new-business-metrics-provider/business-metrics-cloud-usage-compare-sample.png)
+*Cloud spending with business context i.e. in relative terms*
