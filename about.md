@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Cloud costs are variable, and that's a thing we all love about Cloud !
+Because cloud based infrastructure can adapt to our needs and because it's on a pay-per-use basis, Cloud is enabling many things within large and small companies. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+But it doesn't make life easy for everybody ! So we're here to help.
+Teevity's goal is to help enterprises focus on using the full potential of the Cloud for their business needs without having to worry about the costs aspect of it. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Have a look at our [features](https://www.teevity.com/) !
