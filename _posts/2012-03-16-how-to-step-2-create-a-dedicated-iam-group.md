@@ -3,10 +3,10 @@ layout: post
 title:  "How-to : Step 2 - Create a dedicated IAM group"
 date:   2012-03-16 04:20:00 -0400
 ---
-<p>This post describes the second step needed to <a href="http://blog.teevity.com/post/19339445622/amazon-cloud-costs-monitoring-with-teevity-cloudcost" target="_blank">configure an Amazon IAM account for use with Teevity AWS Cloud costs monitoring</a> solution.</p>
-<ul><li><a href="http://blog.teevity.com/post/19400114920/aws-cloud-costs-monitoring-enabling-iam-billing-access" title="Teevity - Enable access to the AWS Billing page" target="_self">Step 1 - Enable access to the Billing page</a> </li>
-<li><strong>Step 2 -</strong> <strong>Create the IAM group with the appropriate rights</strong></li>
-<li><a href="http://blog.teevity.com/post/19399945507/aws-cloud-costs-monitoring-iam-user" title="Teevity - Create the AWS IAM user" target="_self">Step 3 - Create a new IAM user and add it to the group</a></li>
+<p>This post describes the second step needed to <a href="{% post_url 2012-03-16-how-to-use-teevity-for-amazon-cloud-costs-monitoring-with-a-read-only-iam-user %}" target="_blank">configure an Amazon IAM account for use with Teevity AWS Cloud costs monitoring</a> solution.</p>
+<ul><li><a href="{% post_url 2012-03-16-how-to-step-1-enabling-access-to-the-billing-page %}" title="Enable IAM access to the Billing Page" target="_self">Step 1</a> - Enable access to the Billing page </li>
+<li>Step 2 - Create an IAM group dedicated to Cloud cost monitoring</li>
+<li><a href="{% post_url 2012-03-16-how-to-step-3-create-the-amazon-iam-user-dedicated-to-teevity %}" title="Creating an Amazon IAM account for Cloud costs monitoring with Teevity" target="_self">Step 3</a> - Create a new IAM user and add it to the group</li>
 </ul><p><br/><strong>A/ Create the IAM group</strong></p>
 <p>You can do that using the <a href="https://console.aws.amazon.com/iam/home" title="IAM tab of the Amazon AWS Console" target="_blank">IAM tab in the Amazon AWS Console</a>.  </p>
 <p><figure class="tmblr-full" data-orig-height="351" data-orig-width="500"><img alt="image" src="/assets/images/import/19399771650_0.png" data-orig-height="351" data-orig-width="500"/></figure></p>
@@ -26,4 +26,4 @@ date:   2012-03-16 04:20:00 -0400
 <p><figure class="tmblr-full" data-orig-height="313" data-orig-width="500"><img alt="image" src="/assets/images/import/19399771650_4.png" data-orig-height="313" data-orig-width="500"/></figure></p>
 <div></div>
 <p><strong>E/ Now the last step : creating the IAM User and place it in the group you&rsquo;ve just created</strong></p>
-<div>You can see here <a href="http://blog.teevity.com/post/19399945507/aws-cloud-costs-monitoring-iam-user" title="how to do that last step" target="_self">how to do that last step</a>.</div>
+<div>You can see here <a href="{% post_url 2012-03-16-how-to-step-3-create-the-amazon-iam-user-dedicated-to-teevity %}" title="how to do that last step" target="_self">how to do that last step</a>.</div>

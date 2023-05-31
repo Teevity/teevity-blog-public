@@ -34,6 +34,4 @@ date:   2013-08-19 04:45:00 -0400
 <p><strong>Conclusion</strong></p>
 <p>When used as a Cloud cost debugging tool, the feedback on Ice has been very good.</p>
 <p>Ice was thus seen as very complementary to Teevity’s existing feature set and a very good addition for deep “AWS cloud costs analysis”.</p>
-<p>This is why, <a href="http://blog.teevity.com/post/58240593080/netflixoss-ice-as-a-service-by-teevity-in-two-flavors" target="_blank">as announced in our previous post</a>, Ice features will make their way into Teevity cloud costs analytics and will complement the existing features which make it easy to share cost data inside the company and to fetch historical cost and usage data. </p>
-
-        
+<p>This is why, <a href="{% post_url 2012-08-14-netflixoss-ice-as-a-service-by-teevity,-coming-in-two-flavors %}" target="_blank">as announced in our previous post</a>, Ice features will make their way into Teevity cloud costs analytics and will complement the existing features which make it easy to share cost data inside the company and to fetch historical cost and usage data. </p>
