@@ -8,11 +8,11 @@ date:   2012-08-14 02:41:00 -0400
 <li>As a standalone service, through the AWS Marketplace. As simple as a SaaS solution, but without the cost-privacy concerns (since it runs on your own AWS account without any connection to us).</li>
 </ul><p>It&rsquo;s the easiest way to run Ice and to get an always up-to-date version. If you are interested: <a href="http://ice.teevity.com/register/" title="Register for NetflixOSS Ice as a Service by Teevity" target="_blank">http://ice.teevity.com/register/</a>.</p>
 <p>The code behind these two services is based off Teevity&rsquo;s fork of the Ice project, which can be found on Github.</p>
-<p><figure class="tmblr-full" data-orig-height="467" data-orig-width="500"><img alt="image" src="https://64.media.tumblr.com/a41987d59d1924d855ebda2233321f1a/dccf7409eb58db67-a8/s540x810/34fe45daa270ce8336015bfd5d5677a2dea3a213.png" data-orig-height="467" data-orig-width="500"/></figure></p>
-<p><figure class="tmblr-full" data-orig-height="360" data-orig-width="500"><img alt="image" src="https://64.media.tumblr.com/80e33431e5a5aa4204e9affdc788e508/dccf7409eb58db67-a3/s540x810/40b393c2245efc0dc224fcb6bd638d9d2bf2c11c.png" data-orig-height="360" data-orig-width="500"/></figure></p>
+<p><figure class="tmblr-full" data-orig-height="467" data-orig-width="500"><img alt="image" src="/assets/images/import/58240593080_0.png" data-orig-height="467" data-orig-width="500"/></figure></p>
+<p><figure class="tmblr-full" data-orig-height="360" data-orig-width="500"><img alt="image" src="/assets/images/import/58240593080_1.png" data-orig-height="360" data-orig-width="500"/></figure></p>
 <p><strong>What is NetflixOSS Ice ?</strong></p>
 <p>Last June, NetflixOSS released &ldquo;Ice&rdquo;, their <a href="https://github.com/Netflix/ice" title="NetflixOSS Ice" target="_blank">cloud spend and usage analytics </a><a href="https://github.com/Netflix/ice" title="NetflixOSS Ice" target="_blank">on GitHub</a> which they've been using internally for a while.</p>
-<p><figure class="tmblr-full" data-orig-height="291" data-orig-width="500"><img alt="image" src="https://64.media.tumblr.com/85787a6e43c74dd89abc03bcf8026b87/dccf7409eb58db67-66/s540x810/9ccee1d8c43c4d9405083388aa2bc134b66ded4f.png" data-orig-height="291" data-orig-width="500"/></figure></p>
+<p><figure class="tmblr-full" data-orig-height="291" data-orig-width="500"><img alt="image" src="/assets/images/import/58240593080_2.png" data-orig-height="291" data-orig-width="500"/></figure></p>
 
 <p>It&rsquo;s a tool that&rsquo;s mainly targetting DevOps and Dev folks, with a focus on:</p>
 <ul><li>Getting a detailed understanding of how much is spent, and on which services, on your AWS account(s), all through charts and filters</li>
