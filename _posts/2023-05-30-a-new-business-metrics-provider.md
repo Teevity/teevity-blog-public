@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Better Cloud unit economics with a New Business Metrics Provider"
+title:  "Better Cloud Unit Economics with a New Business Metrics Provider"
 date:   2023-05-30 15:04:08 -0400
 ---
 We are thrilled to announce that we have added a new provider for our budget metrics feature, which is a key component of our FinOps platform. Budget metrics allow you to measure and optimize your cloud spending based on your business activity.
