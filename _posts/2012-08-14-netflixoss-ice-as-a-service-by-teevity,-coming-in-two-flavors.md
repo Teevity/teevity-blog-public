@@ -2,6 +2,8 @@
 layout: post
 title:  "NetflixOSS Ice as-a-Service by Teevity, coming in two flavors"
 date:   2012-08-14 02:41:00 -0400
+redirect_from:
+  - /post/58240593080/netflixoss-ice-as-a-service-by-teevity-in-two-flavors
 ---
 <p>We are pleased to announce that we will soon start offering two flavors of Netflix Ice in an &ldquo;as a service&rdquo; way:</p>
 <ul><li>As an integrated part of our Teevity cloud costs analytics services for both the free and the premium SaaS Teevity offerings.</li>

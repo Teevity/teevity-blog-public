@@ -2,6 +2,8 @@
 layout: post
 title:  "How-to : Step 2 - Create a dedicated IAM group"
 date:   2012-03-16 04:20:00 -0400
+redirect_from:
+  - /post/19399771650/aws-cloud-costs-monitoring-iam-security-group
 ---
 <p>This post describes the second step needed to <a href="{% post_url 2012-03-16-how-to-use-teevity-for-amazon-cloud-costs-monitoring-with-a-read-only-iam-user %}" target="_blank">configure an Amazon IAM account for use with Teevity AWS Cloud costs monitoring</a> solution.</p>
 <ul><li><a href="{% post_url 2012-03-16-how-to-step-1-enabling-access-to-the-billing-page %}" title="Enable IAM access to the Billing Page" target="_self">Step 1</a> - Enable access to the Billing page </li>

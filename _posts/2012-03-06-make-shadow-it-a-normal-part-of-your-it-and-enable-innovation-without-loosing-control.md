@@ -2,6 +2,8 @@
 layout: post
 title:  "Make Shadow IT a normal part of your IT. And enable innovation without loosing control."
 date:   2012-03-06 12:35:00 -0400
+redirect_from:
+  - /post/18873555040/make-shadow-it-a-normal-part-of-your-it
 ---
 <p>A priori, it seems contradictory ! <a href="http://en.wikipedia.org/wiki/Shadow_IT" title="Wikipedia definition of Shadow IT" target="_blank">Shadow IT</a>, although the term is controversial, is the not-officially approved use of IT resources. A practice that is widely popularized with the arrival of Cloud and SaaS solutions.</p>
 <p>Shadow IT is by definition the uncontrolled part of IT, so as such it can not be considered normal.</p>

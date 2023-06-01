@@ -2,6 +2,8 @@
 layout: post
 title:  "Feedback on using Netflix Ice by a select group of current Teevity users"
 date:   2013-08-19 04:45:00 -0400
+redirect_from:
+  - /post/58702894040/feedback-on-using-netflix-ice-by-a-select-group-of
 ---
 <p>We’ve put between the hands of a select group of our customers, a version of Netflix Ice running against their AWS account billing. The idea was to get functional feedback from “real users”.</p>
 <p><strong>Context of the test</strong></p>

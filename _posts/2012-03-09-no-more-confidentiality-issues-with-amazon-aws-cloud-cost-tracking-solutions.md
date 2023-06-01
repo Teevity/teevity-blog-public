@@ -2,6 +2,8 @@
 layout: post
 title:  "No more confidentiality issues with Amazon AWS cloud cost tracking solutions"
 date:   2012-03-09 3:40:00 -0400
+redirect_from:
+  - /post/19003674956/no-more-confidentiality-issue-with-aws-cost-tracking-too
 ---
  <p>Great news ! Amazon <a href="http://aws.typepad.com/aws/2012/03/new-iam-feature-control-activity-to-account-and-usage-pages.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+AmazonWebServicesBlog+%28Amazon+Web+Services+Blog%29" title="IAM users can now have access to AWS Account Billing pages" target="_blank">just announced</a> today that IAM users can now be given access to the Account Activity page which contains billing information.</p>
 <p><figure class="tmblr-full" data-orig-height="445" data-orig-width="500"><img src="/assets/images/import/19003674956_0.png" data-orig-height="445" data-orig-width="500"/></figure></p>

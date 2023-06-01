@@ -2,6 +2,8 @@
 layout: post
 title:  "How-to : Use Teevity for Amazon cloud costs monitoring with a read-only IAM user"
 date:   2012-03-16 4:27:00 -0400
+redirect_from:
+  - /post/19339445622/amazon-cloud-costs-monitoring-with-teevity-cloudcost
 ---
 <p>As <a href="{% post_url 2012-03-09-no-more-confidentiality-issues-with-amazon-aws-cloud-cost-tracking-solutions %}" title="No more confidentiality issues with Amazon AWS cloud cost tracking solutions" target="_blank">we explained a few days ago</a>, Amazon has <a href="http://aws.typepad.com/aws/2012/03/new-iam-feature-control-activity-to-account-and-usage-pages.html" title="you can now create users with restricted rights that only have access to the Account Activity and Usage Report pages of the AWS portal" target="_blank">just announced</a> a new feature of their Amazon Identity and Access management system (aka Amazon IAM).</p>
 <p>You can now create IAM users with restricted rights that <strong>only have access to the Account Activity and Usage Report pages of the AWS portal</strong>, the one that give you information about your current costs.</p>

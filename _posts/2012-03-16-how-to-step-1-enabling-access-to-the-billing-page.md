@@ -2,6 +2,8 @@
 layout: post
 title:  "How-to : Step 1 - Enabling access to the Billing page"
 date:   2012-03-16 04:03:00 -0400
+redirect_from:
+  - /post/19400114920/aws-cloud-costs-monitoring-enabling-iam-billing-access
 ---
 <p>This post describes the first step needed to <a href="{% post_url 2012-03-16-how-to-use-teevity-for-amazon-cloud-costs-monitoring-with-a-read-only-iam-user %}" title="Teevity - Configure an Amazon IAM account" target="_blank">configure an Amazon IAM account for use with Teevity cloud costs analytics</a> solutions.</p>
 <ul><li>Step 1 - Enable access to the Billing page </li>

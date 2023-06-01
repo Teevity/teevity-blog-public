@@ -2,6 +2,8 @@
 layout: post
 title:  "How-to : Step 3 - Create the Amazon IAM user dedicated to Teevity"
 date:   2012-03-16 04:23:00 -0400
+redirect_from:
+  - /post/19399945507/aws-cloud-costs-monitoring-iam-user
 ---
 <p>This post describes the third and last step need to <a href="{% post_url 2012-03-16-how-to-use-teevity-for-amazon-cloud-costs-monitoring-with-a-read-only-iam-user %}" target="_blank">configure an Amazon IAM account for use with Teevity Cloud costs analytics</a> solutions.</p>
 <ul><li><a href="{% post_url 2012-03-16-how-to-step-1-enabling-access-to-the-billing-page %}" title="Enable IAM access to the Billing Page" target="_self">Step 1</a> - Enable access to the Billing page </li>
