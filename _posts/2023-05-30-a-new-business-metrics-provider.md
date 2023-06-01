@@ -34,6 +34,6 @@ The chart at the top is the absolute cloud spend by product. Below is the same i
 ![cloud spend relative to usage data as a proxy of business activity  ](/assets/images/2023-05-30-a-new-business-metrics-provider-a-new-business-metrics-provider/business-metrics-cloud-usage-compare-sample.png)
 *Cloud spending with business context i.e. in relative terms*
 
-For each product you can see the spend per unit (here we use a factor of 1024 to get the cost by GB of network traffic). In this particular example we can observe a healthy trend because, even if the absolute cost of cloud spend is increasing, the relative cost by business unit is decreasing.
+For each product you can see the spend per unit (of network traffic). In this particular example we can observe a healthy trend because, even if the absolute cost of cloud spend is increasing, the relative cost by business unit is decreasing.
 
 [Try it](https://www.teevity.com) out today and see how budget metrics can transform your FinOps journey!
